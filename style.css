@@ -1,0 +1,52 @@
+body {
+font-family: Arial, sans-serif;
+max-width: 900px;
+margin: auto;
+background-color: #f8f8f8;
+color: #333;
+}
+
+
+nav {
+margin-bottom: 20px;
+}
+
+
+nav a {
+margin-right: 15px;
+text-decoration: none;
+color: #0066cc;
+font-weight: bold;
+}
+
+
+nav a:hover {
+color: #004499;
+}
+
+
+img {
+max-width: 100%;
+border: 1px solid #ccc;
+border-radius: 5px;
+margin: 10px 0;
+}
+
+
+h1, h2 {
+color: #222;
+}
+
+
+ul {
+list-style-type: square;
+}
+
+
+a {
+color: #0066cc;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
